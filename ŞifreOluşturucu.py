@@ -1,5 +1,6 @@
 import random
 
+#KULLANACAĞI KARAKTERLER
 karakterler = "+-/*!&$#?=@abcdefghijklnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890"
 parola_uzunlugu = int(input("Parolanın uzunluğunu girin: "))
 olusturulan_parola = ""
